@@ -1,7 +1,3 @@
-<div>
-  <a href="https://github.com/AnaNovello">
-</div>
-
 # 👩🏻‍💻 Ana Leticia
 
 **`Desenvolvedora FullStack`**
