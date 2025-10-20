@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Ana Leticia de Oliveira Novello e tenho 23 anos. Sou uma desenvolvedora apaixonada por tecnologia e por aprender coisas novas. Tenho experiência com desenvolvimento de sistemas desktop, mobile e web, e adoro transformar ideias em projetos que realmente fazem sentido para as pessoas. Também gosto de pensar na experiência de quem vai usar o que estou criando, por isso, me envolvo com design de interfaces e prototipação, usando ferramentas como Figma, Photoshop e Illustrator.
+Me chamo Ana Leticia e tenho 24 anos. Sou uma desenvolvedora apaixonada por tecnologia e por aprender coisas novas. Tenho experiência com desenvolvimento de sistemas desktop, mobile e web, e adoro transformar ideias em projetos que realmente fazem sentido para as pessoas. Também gosto de pensar na experiência de quem vai usar o que estou criando, por isso, me envolvo com design de interfaces e prototipação, usando ferramentas como Figma, Photoshop e Illustrator.
 
 Aqui no GitHub compartilho alguns dos meus projetos pessoais, como o sistema de receitas tradicionais brasileiras que desenvolvi com muito carinho — dá uma olhada no repositório 👉 [Receitas Tradicionais](https://github.com/AnaNovello/Receitas-Tradicionais).
 
