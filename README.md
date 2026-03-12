@@ -103,7 +103,7 @@ Sou uma pessoa curiosa, organizada e acredito que sempre temos algo novo para ap
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -115,3 +115,4 @@ Sou uma pessoa curiosa, organizada e acredito que sempre temos algo novo para ap
   />
 
 </p>
+-->
