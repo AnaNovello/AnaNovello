@@ -6,8 +6,6 @@ Me chamo Ana Leticia e tenho 24 anos. Sou uma desenvolvedora apaixonada por tecn
 
 Aqui no GitHub compartilho alguns dos meus projetos pessoais, como o sistema de receitas tradicionais brasileiras que desenvolvi com muito carinho — dá uma olhada no repositório 👉 [Receitas Tradicionais](https://github.com/AnaNovello/Receitas-Tradicionais).
 
-Sou uma pessoa curiosa, organizada e acredito que sempre temos algo novo para aprender. Estou sempre em busca de desafios que me ajudem a crescer e contribuir de forma positiva com quem está ao meu redor. 💻🌱
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
